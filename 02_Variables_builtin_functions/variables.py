@@ -1,20 +1,20 @@
 # Day 2 - 30DaysOfPython Challenge
 # Variables & Builtin functions
 
-# Ex 1
+# Level 1
 first_name = "xGUAPI"
 last_name = "x"
 full_name = first_name + last_name
 country = "Spain"
 city = "Barcelona"
-age = 150
+age = 22
 year = 2025
 is_married = False
 is_true = True
 is_light_on = False
 gender, language = "Male", "English"
 
-# Ex 2
+# Level 2
 print(type(first_name))
 print(type(last_name))
 print(type(full_name))
@@ -44,7 +44,9 @@ floor_division = num_one // num_two
 radius = int(input("Insert radius of the circle (must be an integer): ")) # 30
 circum_of_circle = 3.14 * 2 * radius
 area_of_circle = 3.14 * radius**2
-print("The circumference of the circle of radius:", radius, "=", circum_of_circle, "\nThe area of the circle of radius:", radius, "=", area_of_circle)
+print("The circumference of the circle of radius:", radius, "=", 
+      circum_of_circle, "\nThe area of the circle of radius:", 
+      radius, "=", area_of_circle)
 
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
