@@ -1,4 +1,3 @@
-```markdown
 # How to Upload Code from VSCode to GitHub
 
 ## Basic Steps
