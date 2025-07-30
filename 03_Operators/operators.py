@@ -84,6 +84,18 @@ print(type('10') == type(10)) # False
 print(int(9.8) == 10) # False
 
 # 21 - Write a script that prompts the user to enter hours and rate per hour. Calculate pay of the person?
-print(f"Your monthly earnings are: {int(input("Enter your work hours per-week: ")) * 
+print(f"Your monthly earnings are: {float(input("Enter your weekly work hours: ")) * 
       4 * 
-      float(input("Enter your pay-per hour: "))}")
+      float(input("Enter your hourly pay rate: "))}")
+
+# 22 - Write a script that prompts the user to enter number of years. Calculate the number of seconds a person can live. Assume a person can live hundred years
+print(f"You have lived for {
+    int(input("Enter number of years you have lived: ")) * 
+    365 * 
+    24 * 
+    60 * 
+    60} seconds")
+
+# 23 - Write a Python script that displays the following table
+for i in range(1, 6):
+    print(i, 1, i, i**2, i**3)
