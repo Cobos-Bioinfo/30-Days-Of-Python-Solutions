@@ -19,5 +19,4 @@ print(type(['Asabeneh', 'Python', 'Finland']))  # List
 # Level 3: Calculate the Euclidian distance between (2, 3) and (10, 8).
 def eucD(x1, y1, x2, y2):
     return ((x2-x1)**2 + (y2-y1)**2) ** 0.5
-
-print(eucD(2, 3, 10, 8))
+print(f"Euclidean distance = {eucD(2, 3, 10, 8):.2f}")
