@@ -17,3 +17,4 @@ perimeter_triangle = int(
     int(input("Enter side b: ")) + 
     int(input("Enter side c: ")))
 print("The perimeter of the triangle is", perimeter_triangle)
+
