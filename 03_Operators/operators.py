@@ -2,9 +2,9 @@
 # Operators
 
 # 1 - Declare your age as integer variable.
-age = int(22)
+age = int(150) # TMI
 # 2 - Declare your height as a float variable.
-height = float(176.5)
+height = float(200) # TMI
 # 3 - Declare a variable that stores a complex number.
 complex_num = complex(3 + 5j)
 

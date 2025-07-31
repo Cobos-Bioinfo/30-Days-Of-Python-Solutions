@@ -2,12 +2,12 @@
 # Variables & Builtin functions
 
 # Level 1
-first_name = "xGUAPI"
-last_name = "x"
+first_name = "Alejandro"
+last_name = "Cobos"
 full_name = first_name + last_name
 country = "Spain"
 city = "Barcelona"
-age = 22
+age = 150 # TMI
 year = 2025
 is_married = False
 is_true = True
