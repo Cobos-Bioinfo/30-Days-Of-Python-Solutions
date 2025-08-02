@@ -8,13 +8,15 @@
 | `Ctrl + Tab` | Switch between open files |
 | `F12` | Go to definition |
 | `Alt + ←/→` | Navigate back/forward |
+| `Ctrl+Shift+V` | Preview |
+| `Ctrl+K V` | Open preview side-by-side |
 
 ## ✏️ **Editing**
 | Shortcut | Action |
 |----------|--------|
 | `Ctrl + X` | Cut line (empty selection) |
 | `Ctrl + C` | Copy line (empty selection) |
-| `Ctrl + Ç`| Toggle line comment |
+| `Ctrl + Ç` | Toggle line comment |
 | `Shift + Alt + A` | Toggle block comment |
 | `Ctrl + \` | Split editor |
 
@@ -38,7 +40,7 @@
 | Shortcut | Action |
 |----------|--------|
 | `Ctrl + B` | Toggle sidebar |
-| `Ctrl + J` | Toggle terminal
+| `Ctrl + J` | Toggle terminal |
 | `Ctrl + Shift + E` | Focus explorer |
 
 ## Pro Tips
