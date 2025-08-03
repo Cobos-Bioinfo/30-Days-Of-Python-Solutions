@@ -6,7 +6,7 @@
 dog = {}
 
 # 2 - Add name, color, breed, legs, age to the dog dictionary
-dog["name"] = "Cuqui"
+dog["name"] = "Cuky"
 dog["color"] = "Brown"
 dog["breed"] = "Beagle"
 dog["legs"] = "Short"
