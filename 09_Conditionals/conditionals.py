@@ -65,6 +65,7 @@ fruits = ['banana', 'orange', 'mango', 'lemon']
 print(f"{fruit} is already in the list!") if fruit in fruits else (fruits.append(fruit), print(f"Added {fruit} to the list: {fruits}"))
 
 # Level 3
+# note: In this section I tried to force myself to not use nested conditionals.
 person={
     'first_name': 'Asabeneh',
     'last_name': 'Yetayeh',
