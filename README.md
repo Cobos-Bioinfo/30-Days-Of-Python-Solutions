@@ -18,7 +18,7 @@ This repository documents my progress through [Asabeneh Yetayeh](https://github.
 | 07  | Sets | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/07_Day_Sets/07_sets.md) | [Solution](07_Sets/sets.py) |
 | 08  | Dictionaries | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/08_Day_Dictionaries/08_dictionaries.md) | [Solution](08_Dictionaries/dictionaries.py) |
 | 09  | Conditionals | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/09_Day_Conditionals/09_conditionals.md) | [Solution](09_Conditionals/conditionals.py) |
-| 10  | Loops | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md) | |
+| 10  | Loops | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md) | [Solution](10_Loops/loops.py)|
 | 11  | Functions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md) | |
 | 12  | Modules | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/12_Day_Modules/12_modules.md) | |
 | 13  | List Comprehension | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/13_Day_List_comprehension/13_list_comprehension.md) | |
