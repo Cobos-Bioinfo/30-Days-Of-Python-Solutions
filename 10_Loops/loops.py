@@ -116,9 +116,9 @@ sorted_languages = sorted(language_counts.items(), key=lambda item: item[1], rev
 # Used this opportunity to learn about Lambda functions. In this case the lambda function takes one argument {item} (e.g., ("English", 91)) and returns {item[1]} (91).
 
 # 3. Get top 10 & Print results
-for language, count in sorted_languages[:10]:
-    print(f"{language}: {count} countries")
-
+for language, count in sorted_languages[:10]: # Here I am unpacking the tuple. Equivalent to doing:
+    print(f"{language}: {count} countries")   # for item in sorted_languages[:10]: 
+                                              #     language, count = item[0], item[1] 
     # Find the 10 most populated countries in the world
 population_counts = {}
 for country in c_data:
