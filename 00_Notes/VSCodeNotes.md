@@ -19,6 +19,7 @@
 | `Ctrl + Ç` | Toggle line comment |
 | `Shift + Alt + A` | Toggle block comment |
 | `Ctrl + \` | Split editor |
+| `Ctrl + Shift + L` | Select all occurrences of current selection |
 
 ## 🔍 **Search & Replace**
 | Shortcut | Action |
