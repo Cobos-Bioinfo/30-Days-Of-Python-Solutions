@@ -20,7 +20,7 @@ This repository documents my progress through [Asabeneh Yetayeh](https://github.
 | 09  | Conditionals | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/09_Day_Conditionals/09_conditionals.md) | [Solution](09_Conditionals/conditionals.py) |
 | 10  | Loops | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/10_Day_Loops/10_loops.md) | [Solution](10_Loops/loops.py)|
 | 11  | Functions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/11_Day_Functions/11_functions.md) | [Solution](11_Functions/functions.py)|
-| 12  | Modules | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/12_Day_Modules/12_modules.md) | | [Solution](12_Modules/modules.py)
+| 12  | Modules | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/12_Day_Modules/12_modules.md) | [Solution](12_Modules/modules.py) |
 | 13  | List Comprehension | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/13_Day_List_comprehension/13_list_comprehension.md) | |
 | 14  | Higher Order Functions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/14_Day_Higher_order_functions/14_higher_order_functions.md) | |
 | 15  | Python Type Errors | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) | |
