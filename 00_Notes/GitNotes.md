@@ -6,7 +6,7 @@
 ```bash
 git init
 ```
-- Turns your project folder into a Git repository
+- Turns your project folder into a Git repository  
 - Run this **once per project**
 
 ### 2. Stage Files
@@ -19,21 +19,29 @@ git add .
 ```bash
 git commit -m "Descriptive message"
 ```
-- Saves a snapshot with your changes
+- Saves a snapshot with your changes  
 - Always write clear messages (e.g., "Fixed login page styling")
 
 ### 4. Connect to GitHub
 ```bash
 git remote add origin https://github.com/username/repo.git
 ```
-- Links local project to GitHub
+- Links local project to GitHub  
 - Replace URL with your actual repository
 
-### 5. Push to GitHub
+### 5. Sync with Remote (Before Pushing or Pulling)
+```bash
+git fetch origin
+git status
+```
+- `git fetch origin` retrieves any changes from the remote (e.g., commits, branches) without merging them  
+- `git status` shows if there are any changes from the remote that haven't been incorporated locally
+
+### 6. Push to GitHub
 ```bash
 git push -u origin main
 ```
-- Uploads code to GitHub
+- Uploads code to GitHub  
 - `-u` sets `main` as default branch (only needed first time)
 
 ---
@@ -42,8 +50,9 @@ git push -u origin main
 
 | Command | Description |
 |---------|-------------|
-| `git status` | Shows changed/untracked files |
+| `git status` | Shows changed/untracked files and remote sync status |
 | `git log` | Displays commit history |
+| `git fetch origin` | Retrieves new commits/branches from remote without merging |
 | `git clone URL` | Downloads a repository |
 
 ---
@@ -55,6 +64,3 @@ git push -u origin main
 git remote remove origin
 git remote add origin NEW_URL
 ```
-
-### ❌ Authentication Failed
-- Use [GitHub Personal Access Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) instead of password
