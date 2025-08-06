@@ -1,6 +1,6 @@
 # 🐍 My 30 Days of Python Journey
 
-This repository documents my progress through [Asabeneh Yetayeh](https://github.com/Asabeneh)'s [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) challenge. A structured beginner-to-intermediate curriculum teaching Python through daily topics and exercises spanning **30 days**. Each day covers specific concepts with explanations, code examples, and practical exercises.
+This repository contains my **complete solutions** to [Asabeneh Yetayeh](https://github.com/Asabeneh)'s [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) challenge. A structured beginner-to-intermediate curriculum teaching Python through daily topics and exercises spanning **30 days**. Each day covers specific concepts with explanations, code examples, and practical exercises.
 
 
 ---
@@ -41,6 +41,12 @@ This repository documents my progress through [Asabeneh Yetayeh](https://github.
 | 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | |
 
 
-> ✅ *Check back as I update each day's solution!*
+> ✅ 🔍 **30DaysOfPython Solutions Hub**
+> - Check back as I update each day's solution!
+> - This repo contains **day-by-day implementations** of Asabeneh's 30DaysOfPython challenge.  
+> - If these solutions help you, consider ⭐ **starring** the repo to support my journey!   
 
 ---
+
+**Note on Code Formatting**:  
+I use VSCode's word wrap ```(Alt+Z)``` while coding, so some comments appear multi-line in my editor but may display as single-line on GitHub. The code functionality remains unaffected - just expand your viewer width or check the raw files if needed.
