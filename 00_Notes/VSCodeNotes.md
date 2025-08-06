@@ -7,7 +7,6 @@
 | `Ctrl + G` | Go to line number |
 | `Ctrl + Tab` | Switch between open files |
 | `F12` | Go to definition |
-| `Alt + ←/→` | Navigate back/forward |
 | `Ctrl+Shift+V` | Preview |
 | `Ctrl+K V` | Open preview side-by-side |
 
@@ -20,6 +19,11 @@
 | `Shift + Alt + A` | Toggle block comment |
 | `Ctrl + \` | Split editor |
 | `Ctrl + Shift + L` | Select all occurrences of current selection |
+| `Alt + ←/→` (Custom) | Move selected text left/right |
+| `Alt + Click` | Add cursor (multi-cursor) |
+| `Ctrl + Alt + ↑/↓` | Add cursor above/below (multi-cursor) |
+| `Shift + Alt + Drag` | Column selection |
+| `F2` | Rename all occurrences |
 
 ## 🔍 **Search & Replace**
 | Shortcut | Action |
@@ -43,11 +47,3 @@
 | `Ctrl + B` | Toggle sidebar |
 | `Ctrl + J` | Toggle terminal |
 | `Ctrl + Shift + E` | Focus explorer |
-
-## Pro Tips
-1. **Multi-cursor**:
-   - `Alt + Click` - Add cursor
-   - `Ctrl + Alt + ↑/↓` - Add cursor above/below
-2. **Column selection**: `Shift + Alt + Drag`
-3. **Rename all occurrences**: `F2`
-4. **Format on save**: Enable `editor.formatOnSave`
