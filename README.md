@@ -39,14 +39,15 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 28  | API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/28_Day_API/28_API.md) | |
 | 29  | Building API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/29_Day_Building_API/29_building_API.md) | |
 | 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | |
+|||||
 
-
-> ✅ 🔍 **30DaysOfPython Solutions Hub**
+> ### **30DaysOfPython Solutions**
 > - Check back as I update each day's solution!
 > - This repo contains **day-by-day implementations** of Asabeneh's 30DaysOfPython challenge.  
-> - If these solutions help you, consider ⭐ **starring** the repo to support my journey!   
+> - If these solutions help you, consider ⭐ **starring** the repo to support my journey!
+
 
 ---
 
-**Note on Code Formatting**:  
+#### **Note on Code Formatting**:  
 I use VSCode's word wrap ```(Alt+Z)``` while coding, so some comments appear multi-line in my editor but may display as single-line on GitHub. The code functionality remains unaffected - just expand your viewer width or check the raw files if needed.
