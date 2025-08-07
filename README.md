@@ -39,14 +39,12 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 28  | API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/28_Day_API/28_API.md) | |
 | 29  | Building API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/29_Day_Building_API/29_building_API.md) | |
 | 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | |
-|||||
 
 ## 🚧 Missing/Incomplete Days
 
 | Day | Topic                 | Type          | Progress Table Reference          |
 |-----|-----------------------|---------------|-----------------------------------|
 | 15  | Python Type Errors    | REPL Practice | [Day 15 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |
-|||||
 
 <details>
 <summary>💡 About These Days</summary>
