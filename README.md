@@ -23,7 +23,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 12  | Modules | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/12_Day_Modules/12_modules.md) | [Solution](12_Modules/modules.py) |
 | 13  | List Comprehension | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/13_Day_List_comprehension/13_list_comprehension.md) | [Solution](13_List_comprehension/list_comprehension.py) |
 | 14  | Higher Order Functions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/14_Day_Higher_order_functions/14_higher_order_functions.md) |[Solution](14_Higher_order_functions/higher_order_functions.py) |
-| 15  | Python Type Errors | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) | |
+| 15  | Python Type Errors | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |[Unavailable](#-missingincomplete-days) |
 | 16  | Python Date Time | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/16_Day_Python_date_time/16_python_datetime.md) | |
 | 17  | Exception Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/17_Day_Exception_handling/17_exception_handling.md) | |
 | 18  | Regular Expressions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/18_Day_Regular_expressions/18_regular_expressions.md) | |
@@ -40,6 +40,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 29  | Building API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/29_Day_Building_API/29_building_API.md) | |
 | 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | |
 
+<a id="missingincomplete-days"></a>
 ## 🚧 Missing/Incomplete Days
 
 | Day | Topic                 | Type          | Progress Table Reference          |
