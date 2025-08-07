@@ -41,13 +41,27 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | |
 |||||
 
-> ### **30DaysOfPython Solutions**
+## 🚧 Missing/Incomplete Days
+
+| Day | Topic                 | Type          | Progress Table Reference          |
+|-----|-----------------------|---------------|-----------------------------------|
+| 15  | Python Type Errors    | REPL Practice | [Day 15 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |
+|||||
+
+<details>
+<summary>💡 About These Days</summary>
+These lessons focus on <strong>REPL</strong> (Read-Eval-Print Loop - Python's interactive shell) or terminal practices rather than scriptable solutions.<br>
+Follow along using the original lessons linked above.
+</details>
+
+---
+
+> ## 🏆 **30DaysOfPython Solutions**
 > - Check back as I update each day's solution!
 > - This repo contains **day-by-day implementations** of Asabeneh's 30DaysOfPython challenge.  
 > - If these solutions help you, consider ⭐ **starring** the repo to support my journey!
 
-
 ---
 
-#### **Note on Code Formatting**:  
+#### ✏️  **Note on Code Formatting**:  
 I use VSCode's word wrap ```(Alt+Z)``` while coding, so some comments appear multi-line in my editor but may display as single-line on GitHub. The code functionality remains unaffected - just expand your viewer width or check the raw files if needed.
