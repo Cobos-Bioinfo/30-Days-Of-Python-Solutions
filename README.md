@@ -24,7 +24,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 13  | List Comprehension | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/13_Day_List_comprehension/13_list_comprehension.md) | [Solution](13_List_comprehension/list_comprehension.py) |
 | 14  | Higher Order Functions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/14_Day_Higher_order_functions/14_higher_order_functions.md) |[Solution](14_Higher_order_functions/higher_order_functions.py) |
 | 15  | Python Type Errors | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |[Unavailable](#-missingincomplete-days) |
-| 16  | Python Date Time | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/16_Day_Python_date_time/16_python_datetime.md) | |
+| 16  | Python Date Time | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/16_Day_Python_date_time/16_python_datetime.md) |[Solution](16_Date_time/date_time.py) |
 | 17  | Exception Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/17_Day_Exception_handling/17_exception_handling.md) | |
 | 18  | Regular Expressions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/18_Day_Regular_expressions/18_regular_expressions.md) | |
 | 19  | File Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/19_Day_File_handling/19_file_handling.md) | |
