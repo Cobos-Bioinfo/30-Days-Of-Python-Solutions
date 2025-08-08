@@ -1,6 +1,6 @@
 # Day 14 - 30DaysOfPython Challenge
 # Higher order functions
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 # 1 - Get the current day, month, year, hour, minute and timestamp from datetime module
@@ -22,18 +22,14 @@ print(
 print(datetime.strptime("5 December, 2019", "%d %B, %Y"))
 
 # 4 - Calculate the time difference between now and new year.
-
+new_year = datetime(2025, 1, 1)
+print(f"Time difference between now ({now.strftime("%Y-%m-%d %H:%M:%S")}) and New Year ({new_year.strftime("%Y-%m-%d %H:%M:%S")}) = {now - new_year})")
 
 # 5 - Calculate the time difference between 1 January 1970 and now.
-
+date_5 = datetime.strptime("1, January, 1970", "%d, %B, %Y")
+print(f"Time difference between now ({now.strftime("%Y-%m-%d %H:%M:%S")}) and {date_5.strftime("%Y-%m-%d %H:%M:%S")} = {now - date_5})")
 
 # 6 - Think, what can you use the datetime module for? Examples:
-    
-    
-    # Time series analysis
-    
-    
-    # To get a timestamp of any activities in an application
-    
-    
-    # Adding posts on a blog
+# To get a timestamp of any activities in an application
+def log_loginTime() -> None:
+    print(f"User logged in at: {datetime.now().strftime('%H:%M:%S')}")
