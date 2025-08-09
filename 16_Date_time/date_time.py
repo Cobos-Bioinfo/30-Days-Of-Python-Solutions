@@ -1,5 +1,5 @@
-# Day 14 - 30DaysOfPython Challenge
-# Higher order functions
+# Day 16 - 30DaysOfPython Challenge
+# Date time module
 from datetime import datetime, timedelta
 
 
