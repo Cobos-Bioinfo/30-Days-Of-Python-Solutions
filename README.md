@@ -26,7 +26,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 15  | Python Type Errors | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |[Unavailable](#-missingincomplete-days) |
 | 16  | Python Date Time | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/16_Day_Python_date_time/16_python_datetime.md) |[Solution](16_Date_time/date_time.py) |
 | 17  | Exception Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/17_Day_Exception_handling/17_exception_handling.md) |[Solution](17_Exception_handling/exception_handling.py) |
-| 18  | Regular Expressions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/18_Day_Regular_expressions/18_regular_expressions.md) | |
+| 18  | Regular Expressions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/18_Day_Regular_expressions/18_regular_expressions.md) |[Solution](18_Regular_expressions/regular_expressions.py) |
 | 19  | File Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/19_Day_File_handling/19_file_handling.md) | |
 | 20  | Python Package Manager | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/20_Day_Python_package_manager/20_python_package_manager.md) | |
 | 21  | Classes and Objects | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/21_Day_Classes_and_objects/21_classes_and_objects.md) | |
