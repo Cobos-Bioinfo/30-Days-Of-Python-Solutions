@@ -54,6 +54,7 @@ git push -u origin main
 | `git log` | Displays commit history |
 | `git fetch origin` | Retrieves new commits/branches from remote without merging |
 | `git clone URL` | Downloads a repository |
+| `git reset` | Undoes commits (see troubleshooting below) |
 
 ---
 
@@ -63,4 +64,10 @@ git push -u origin main
 ```bash
 git remote remove origin
 git remote add origin NEW_URL
+```
+### ❌ Need to undo local commits
+```bash
+git reset --soft HEAD~1  # Keeps changes staged
+git reset --hard HEAD~1  # Discards changes completely
+git reset <commit-hash>  # Reverts to specific commit
 ```
