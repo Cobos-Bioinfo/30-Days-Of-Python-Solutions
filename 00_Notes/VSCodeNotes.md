@@ -24,6 +24,7 @@
 | `Ctrl + Alt + ↑/↓` | Add cursor above/below (multi-cursor) |
 | `Shift + Alt + Drag` | Column selection |
 | `F2` | Rename all occurrences |
+| `Shift + Alt + ↓/↑` | Duplicate line down/up |
 
 ## 🔍 **Search & Replace**
 | Shortcut | Action |
