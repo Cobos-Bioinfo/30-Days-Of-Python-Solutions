@@ -21,19 +21,18 @@ def most_spoken_languages(file_path):
     for lang in all_languages:
         language_counts[lang] = language_counts.get(lang, 0) + 1
 
-    top_10 = sorted([(count, lang) for lang, count in language_counts.items()], reverse=True)
-    return top_10[:10]
+    return sorted([(count, lang) for lang, count in language_counts.items()], reverse=True)[:10]
 
 # 3 - Read the countries_data.json data file in data directory, create a function that creates a list of the ten most populated countries
-def most_populated_countries(file_path):
+def most_populated_countries(file_path, n):
     with open(file_path, "r", encoding="utf-8") as f:
         countries = json.load(f)
-    population_counts: dict[str, int] = {}
-    all_populations = [population for country in countries for population in country["population"]]
 
-    for population in all_populations:
-        population_counts[population] = population_counts.get(population, 0) + 1
+    population_list = [
+        {"country": country["name"], "population": country["population"]}
+        for country in countries
+    ]
 
-    top_10 = sorted([(count, population) for population, count in population_counts.items()], reverse=True)
-    return top_10[:10]
-most_populated_countries("./data/countries_data.json")
+    return sorted(population_list, key=lambda x: x["population"], reverse=True)[:n]
+
+print(most_populated_countries("./data/countries_data.json", 3))
