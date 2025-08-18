@@ -106,7 +106,6 @@ def check_txt_similarity(text_path1: str, text_path2: str) -> float:
 print(f"The 10 most repeated words in romeo and juliet are: {find_most_common_words("./data/romeo_and_juliet.txt", 10)}")
 
 # 9 - Read the hacker news csv file and find out: a) Count the number of lines containing python or Python b) Count the number lines containing JavaScript, javascript or Javascript c) Count the number lines containing Java and not JavaScript
-
 def count_languages(file_path: str):
     py_count = 0
     js_count = 0
