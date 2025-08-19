@@ -28,7 +28,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 17  | Exception Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/17_Day_Exception_handling/17_exception_handling.md) |[Solution](17_Exception_handling/exception_handling.py) |
 | 18  | Regular Expressions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/18_Day_Regular_expressions/18_regular_expressions.md) |[Solution](18_Regular_expressions/regular_expressions.py) |
 | 19  | File Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/19_Day_File_handling/19_file_handling.md) |[Solution](19_File_handling/file_handling.py) |
-| 20  | Python Package Manager | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/20_Day_Python_package_manager/20_python_package_manager.md) | |
+| 20  | Python Package Manager | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/20_Day_Python_package_manager/20_python_package_manager.md) |[Solution](20_PIP/pip.py) |
 | 21  | Classes and Objects | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/21_Day_Classes_and_objects/21_classes_and_objects.md) | |
 | 22  | Web Scraping | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/22_Day_Web_scraping/22_web_scraping.md) | |
 | 23  | Virtual Environment | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md) | |
