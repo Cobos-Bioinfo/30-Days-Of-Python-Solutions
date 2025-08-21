@@ -25,6 +25,7 @@
 | `Shift + Alt + Drag` | Column selection |
 | `F2` | Rename all occurrences |
 | `Shift + Alt + ↓/↑` | Duplicate line down/up |
+| `Ctrl + Shift + K` | Delete line |
 
 ## 🔍 **Search & Replace**
 | Shortcut | Action |
