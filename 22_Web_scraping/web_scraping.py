@@ -1,13 +1,13 @@
 # Day 22 - 30DaysOfPython Challenge
 # Web Scraping
 
-# 1 - Scrape the following website and store the data as json file(url = 'http://www.bu.edu/president/boston-university-facts-stats/').
 import requests
 from bs4 import BeautifulSoup, Tag
 import json
 from datetime import datetime
 import re
 
+# 1 - Scrape the following website and store the data as json file(url = 'http://www.bu.edu/president/boston-university-facts-stats/').
 def scrape_website(url: str = 'http://www.bu.edu/president/boston-university-facts-stats/'):
     # Fetch the page and return None if Error
     response = requests.get(url)
