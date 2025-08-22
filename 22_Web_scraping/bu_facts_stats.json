@@ -1,0 +1,25 @@
+{
+    "url": "http://www.bu.edu/president/boston-university-facts-stats/",
+    "title": "BU Facts & Stats | Office of the President",
+    "scraped_at": "22-08-2025 15:26:11",
+    "sections": {
+        "Fast Facts": [
+            "Total Enrollment: 36,691",
+            "Undergraduate: 18,367",
+            "Graduate: 18,324",
+            "Faculty: Over 4,000"
+        ],
+        "Research": [
+            "Annual Research Expenditure: $600M+",
+            "NIH Funding: Top 10 private universities"
+        ],
+        "Diversity": [
+            {
+                "list": [
+                    "135+ countries represented",
+                    "50% women in undergraduate population"
+                ]
+            }
+        ]
+    }
+}

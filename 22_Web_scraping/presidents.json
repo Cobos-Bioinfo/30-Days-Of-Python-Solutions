@@ -1,0 +1,431 @@
+{
+    "url": "https://en.wikipedia.org/wiki/List_of_presidents_of_the_United_States",
+    "title": "List of Presidents of the United States",
+    "scraped_at": "22-08-2025 17:12:33",
+    "total_presidents": 47,
+    "presidents": [
+        {
+            "no": "1",
+            "name": "George Washington (1732–1799)",
+            "term": "April 30, 1789 – March 4, 1797",
+            "party": "",
+            "election": "Unaffiliated",
+            "vice_president": "1788–89 1792",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington_%283x4_cropped%29.jpg/250px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "2",
+            "name": "John Adams (1735–1826)",
+            "term": "March 4, 1797 – March 4, 1801",
+            "party": "",
+            "election": "Federalist",
+            "vice_president": "1796",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/John_Adams_A18236_%28cropped%29.jpg/250px-John_Adams_A18236_%28cropped%29.jpg"
+        },
+        {
+            "no": "3",
+            "name": "Thomas Jefferson (1743–1826)",
+            "term": "March 4, 1801 – March 4, 1809",
+            "party": "",
+            "election": "Democratic- Republican",
+            "vice_president": "1800 1804",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29_%283x4_cropped%29.jpg/250px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "4",
+            "name": "James Madison (1751–1836)",
+            "term": "March 4, 1809 – March 4, 1817",
+            "party": "",
+            "election": "Democratic- Republican",
+            "vice_president": "1808 1812",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/James_Madison_Portrait_1816_%283x4_cropped%29.jpg/250px-James_Madison_Portrait_1816_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "5",
+            "name": "James Monroe (1758–1831)",
+            "term": "March 4, 1817 – March 4, 1825",
+            "party": "",
+            "election": "Democratic- Republican",
+            "vice_president": "1816 1820",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/James_Monroe_White_House_portrait_1819_%28cropped_3x4_close%29.jpg/250px-James_Monroe_White_House_portrait_1819_%28cropped_3x4_close%29.jpg"
+        },
+        {
+            "no": "6",
+            "name": "John Quincy Adams (1767–1848)",
+            "term": "March 4, 1825 – March 4, 1829",
+            "party": "",
+            "election": "Democratic- Republican [ f ] National Republican",
+            "vice_president": "1824",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/John_Quincy_Adams_1858_%283x4_cropped%29.jpg/250px-John_Quincy_Adams_1858_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "7",
+            "name": "Andrew Jackson (1767–1845)",
+            "term": "March 4, 1829 – March 4, 1837",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1828 1832",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Andrew_jackson_head_%283x4_cropped%29.jpg/250px-Andrew_jackson_head_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "8",
+            "name": "Martin Van Buren (1782–1862)",
+            "term": "March 4, 1837 – March 4, 1841",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1836",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Martin_Van_Buren_circa_1837_%283x4_cropped%29.jpg/250px-Martin_Van_Buren_circa_1837_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "9",
+            "name": "William Henry Harrison (1773–1841)",
+            "term": "March 4, 1841 – April 4, 1841 [ e ]",
+            "party": "",
+            "election": "Whig",
+            "vice_president": "1840",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/William_Henry_Harrison_Portrait_%283x4_cropped%29.jpg/250px-William_Henry_Harrison_Portrait_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "10",
+            "name": "John Tyler (1790–1862)",
+            "term": "April 4, 1841 [ i ] – March 4, 1845",
+            "party": "",
+            "election": "Whig [ j ] Unaffiliated",
+            "vice_president": "–",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/John_Tyler_%28cropped_3x4%29_%28cropped%29%282%29.png/250px-John_Tyler_%28cropped_3x4%29_%28cropped%29%282%29.png"
+        },
+        {
+            "no": "11",
+            "name": "James K. Polk (1795–1849)",
+            "term": "March 4, 1845 – March 4, 1849",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1844",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/James_K_Polk_%283x4_cropped%29.jpg/250px-James_K_Polk_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "12",
+            "name": "Zachary Taylor (1784–1850)",
+            "term": "March 4, 1849 – July 9, 1850 [ e ]",
+            "party": "",
+            "election": "Whig",
+            "vice_president": "1848",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Zachary_Taylor_restored_%283x4_cropped%29.jpg/250px-Zachary_Taylor_restored_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "13",
+            "name": "Millard Fillmore (1800–1874)",
+            "term": "July 9, 1850 [ k ] – March 4, 1853",
+            "party": "",
+            "election": "Whig",
+            "vice_president": "–",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fillmore_%28cropped%29.jpg/250px-Fillmore_%28cropped%29.jpg"
+        },
+        {
+            "no": "14",
+            "name": "Franklin Pierce (1804–1869)",
+            "term": "March 4, 1853 – March 4, 1857",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1852",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg/250px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29%282%29.jpg"
+        },
+        {
+            "no": "15",
+            "name": "James Buchanan (1791–1868)",
+            "term": "March 4, 1857 – March 4, 1861",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1856",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/James_Buchanan_%28cropped_3x4%29.jpg/250px-James_Buchanan_%28cropped_3x4%29.jpg"
+        },
+        {
+            "no": "16",
+            "name": "Abraham Lincoln (1809–1865)",
+            "term": "March 4, 1861 – April 15, 1865 [ e ]",
+            "party": "",
+            "election": "Republican National Union [ l ]",
+            "vice_president": "1860 1864",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg/250px-Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "17",
+            "name": "Andrew Johnson (1808–1875)",
+            "term": "April 15, 1865 [ m ] – March 4, 1869",
+            "party": "",
+            "election": "National Union [ n ] Democratic",
+            "vice_president": "–",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Andrew_Johnson_photo_portrait_head_and_shoulders_%283x4_cropped%29.jpg/250px-Andrew_Johnson_photo_portrait_head_and_shoulders_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "18",
+            "name": "Ulysses S. Grant (1822–1885)",
+            "term": "March 4, 1869 – March 4, 1877",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1868 1872",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ulysses_S_Grant_by_Brady_c1870-restored_%283x4_cropped%29.jpg/250px-Ulysses_S_Grant_by_Brady_c1870-restored_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "19",
+            "name": "Rutherford B. Hayes (1822–1893)",
+            "term": "March 4, 1877 – March 4, 1881",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1876",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/President_Rutherford_Hayes_1870_-_1880_%283x4_cropped%29.jpg/250px-President_Rutherford_Hayes_1870_-_1880_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "20",
+            "name": "James A. Garfield (1831–1881)",
+            "term": "March 4, 1881 – September 19, 1881 [ e ]",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1880",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/James_Abram_Garfield%2C_photo_portrait_seated_%283x4_cropped_b%29.jpg/250px-James_Abram_Garfield%2C_photo_portrait_seated_%283x4_cropped_b%29.jpg"
+        },
+        {
+            "no": "21",
+            "name": "Chester A. Arthur (1829–1886)",
+            "term": "September 19, 1881 [ o ] – March 4, 1885",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "–",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg/250px-Chester_A._Arthur_by_Abraham_Bogardus_%28cropped%29_%282%29.jpg"
+        },
+        {
+            "no": "22",
+            "name": "Grover Cleveland (1837–1908)",
+            "term": "March 4, 1885 – March 4, 1889",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1884",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grover_Cleveland_by_Charles_Milton_Bell_color_change_%283x4_cropped_b%29.jpg/250px-Grover_Cleveland_by_Charles_Milton_Bell_color_change_%283x4_cropped_b%29.jpg"
+        },
+        {
+            "no": "23",
+            "name": "Benjamin Harrison (1833–1901)",
+            "term": "March 4, 1889 – March 4, 1893",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1888",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896_%284x5_cropped%29.jpg/250px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896_%284x5_cropped%29.jpg"
+        },
+        {
+            "no": "24",
+            "name": "Grover Cleveland (1837–1908)",
+            "term": "March 4, 1893 – March 4, 1897",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1892",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/StephenGroverCleveland.jpg/250px-StephenGroverCleveland.jpg"
+        },
+        {
+            "no": "25",
+            "name": "William McKinley (1843–1901)",
+            "term": "March 4, 1897 – September 14, 1901 [ e ]",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1896 1900",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/William_McKinley_Portrait_%283x4_cropped%29.jpg/250px-William_McKinley_Portrait_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "26",
+            "name": "Theodore Roosevelt (1858–1919)",
+            "term": "September 14, 1901 [ p ] – March 4, 1909",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "– 1904",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg/250px-Theodore_Roosevelt_by_the_Pach_Bros_%284x5_cropped%29.jpg"
+        },
+        {
+            "no": "27",
+            "name": "William Howard Taft (1857–1930)",
+            "term": "March 4, 1909 – March 4, 1913",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1908",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29.jpg/250px-William_Howard_Taft_by_Pach_Brothers_%283x4_ropped%29.jpg"
+        },
+        {
+            "no": "28",
+            "name": "Woodrow Wilson (1856–1924)",
+            "term": "March 4, 1913 – March 4, 1921",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1912 1916",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/President_Woodrow_Wilson_in_1914%2C_Harris_%26_Ewing_%283x4_cropped_c%29.jpg/250px-President_Woodrow_Wilson_in_1914%2C_Harris_%26_Ewing_%283x4_cropped_c%29.jpg"
+        },
+        {
+            "no": "29",
+            "name": "Warren G. Harding (1865–1923)",
+            "term": "March 4, 1921 – August 2, 1923 [ e ]",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1920",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Warren_G_Harding-Harris_%26_Ewing_%283x4_cropped%29.jpg/250px-Warren_G_Harding-Harris_%26_Ewing_%283x4_cropped%29.jpg"
+        },
+        {
+            "no": "30",
+            "name": "Calvin Coolidge (1872–1933)",
+            "term": "August 2, 1923 [ q ] – March 4, 1929",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "– 1924",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/President_Calvin_Coolidge%2C_1924_head-and-shoulders_portrait%2C_facing_slightly_right_%282%29.jpeg/250px-President_Calvin_Coolidge%2C_1924_head-and-shoulders_portrait%2C_facing_slightly_right_%282%29.jpeg"
+        },
+        {
+            "no": "31",
+            "name": "Herbert Hoover (1874–1964)",
+            "term": "March 4, 1929 – March 4, 1933",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1928",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Unsuccessful_1932.jpg/250px-Unsuccessful_1932.jpg"
+        },
+        {
+            "no": "32",
+            "name": "Franklin D. Roosevelt (1882–1945)",
+            "term": "March 4, 1933 – April 12, 1945 [ e ]",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1932 1936 1940 1944",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/FDR-1944-Campaign-Portrait_%28cropped%29.jpg/250px-FDR-1944-Campaign-Portrait_%28cropped%29.jpg"
+        },
+        {
+            "no": "33",
+            "name": "Harry S. Truman (1884–1972)",
+            "term": "April 12, 1945 [ r ] – January 20, 1953",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "– 1948",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/250px-TRUMAN_58-766-06_%28cropped%29.jpg"
+        },
+        {
+            "no": "34",
+            "name": "Dwight D. Eisenhower (1890–1969)",
+            "term": "January 20, 1953 – January 20, 1961",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1952 1956",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/250px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg"
+        },
+        {
+            "no": "35",
+            "name": "John F. Kennedy (1917–1963)",
+            "term": "January 20, 1961 – November 22, 1963 [ e ]",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1960",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/John_F._Kennedy%2C_White_House_color_photo_portrait_%283x4%29_%28cropped%29.jpg/250px-John_F._Kennedy%2C_White_House_color_photo_portrait_%283x4%29_%28cropped%29.jpg"
+        },
+        {
+            "no": "36",
+            "name": "Lyndon B. Johnson (1908–1973)",
+            "term": "November 22, 1963 [ s ] – January 20, 1969",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "– 1964",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/250px-37_Lyndon_Johnson_3x4.jpg"
+        },
+        {
+            "no": "37",
+            "name": "Richard Nixon (1913–1994)",
+            "term": "January 20, 1969 – August 9, 1974 [ h ]",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1968 1972",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/250px-Richard_Nixon_presidential_portrait_%281%29.jpg"
+        },
+        {
+            "no": "38",
+            "name": "Gerald Ford (1913–2006)",
+            "term": "August 9, 1974 [ u ] – January 20, 1977",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "–",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg/250px-Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg"
+        },
+        {
+            "no": "39",
+            "name": "Jimmy Carter (1924–2024)",
+            "term": "January 20, 1977 – January 20, 1981",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1976",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Carter_cropped.jpg/250px-Carter_cropped.jpg"
+        },
+        {
+            "no": "40",
+            "name": "Ronald Reagan (1911–2004)",
+            "term": "January 20, 1981 – January 20, 1989",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1980 1984",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Official_Portrait_of_President_Reagan_1981-cropped.jpg/250px-Official_Portrait_of_President_Reagan_1981-cropped.jpg"
+        },
+        {
+            "no": "41",
+            "name": "George H. W. Bush (1924–2018)",
+            "term": "January 20, 1989 – January 20, 1993",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "1988",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/George_H._W._Bush_presidential_portrait_%28cropped_2%29.jpg/250px-George_H._W._Bush_presidential_portrait_%28cropped_2%29.jpg"
+        },
+        {
+            "no": "42",
+            "name": "Bill Clinton ( b. 1946)",
+            "term": "January 20, 1993 – January 20, 2001",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "1992 1996",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/250px-Bill_Clinton.jpg"
+        },
+        {
+            "no": "43",
+            "name": "George W. Bush ( b. 1946)",
+            "term": "January 20, 2001 – January 20, 2009",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "2000 2004",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/250px-George-W-Bush.jpeg"
+        },
+        {
+            "no": "44",
+            "name": "Barack Obama ( b. 1961)",
+            "term": "January 20, 2009 – January 20, 2017",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "2008 2012",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/President_Barack_Obama%2C_2012_portrait_crop.jpg/250px-President_Barack_Obama%2C_2012_portrait_crop.jpg"
+        },
+        {
+            "no": "45",
+            "name": "Donald Trump ( b. 1946)",
+            "term": "January 20, 2017 – January 20, 2021",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "2016",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Donald_Trump_official_portrait_%283x4a%29.jpg/250px-Donald_Trump_official_portrait_%283x4a%29.jpg"
+        },
+        {
+            "no": "46",
+            "name": "Joe Biden ( b. 1942)",
+            "term": "January 20, 2021 – January 20, 2025",
+            "party": "",
+            "election": "Democratic",
+            "vice_president": "2020",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Joe_Biden_presidential_portrait_%28cropped%29.jpg/250px-Joe_Biden_presidential_portrait_%28cropped%29.jpg"
+        },
+        {
+            "no": "47",
+            "name": "Donald Trump ( b. 1946)",
+            "term": "January 20, 2025 – Incumbent",
+            "party": "",
+            "election": "Republican",
+            "vice_president": "2024",
+            "portrait": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg/250px-Official_Presidential_Portrait_of_President_Donald_J._Trump_%282025%29.jpg"
+        }
+    ]
+}
