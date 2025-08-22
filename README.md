@@ -30,7 +30,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 19  | File Handling | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/19_Day_File_handling/19_file_handling.md) |[Solution](19_File_handling/file_handling.py) |
 | 20  | Python Package Manager | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/20_Day_Python_package_manager/20_python_package_manager.md) |[Solution](20_PIP/pip.py) |
 | 21  | Classes and Objects | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/21_Day_Classes_and_objects/21_classes_and_objects.md) |[Solution](21_Classes_and_objects/classes_and_objects.py) |
-| 22  | Web Scraping | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/22_Day_Web_scraping/22_web_scraping.md) | |
+| 22  | Web Scraping | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/22_Day_Web_scraping/22_web_scraping.md) |[Solution](22_Web_scraping/web_scraping.py) |
 | 23  | Virtual Environment | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md) | |
 | 24  | Statistics | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/24_Day_Statistics/24_statistics.md) | |
 | 25  | Pandas | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/25_Day_Pandas/25_pandas.md) | |
