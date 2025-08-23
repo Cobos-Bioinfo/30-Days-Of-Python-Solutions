@@ -31,7 +31,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 20  | Python Package Manager | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/20_Day_Python_package_manager/20_python_package_manager.md) |[Solution](20_PIP/pip.py) |
 | 21  | Classes and Objects | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/21_Day_Classes_and_objects/21_classes_and_objects.md) |[Solution](21_Classes_and_objects/classes_and_objects.py) |
 | 22  | Web Scraping | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/22_Day_Web_scraping/22_web_scraping.md) |[Solution](22_Web_scraping/web_scraping.py) |
-| 23  | Virtual Environment | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md) | |
+| 23  | Virtual Environment | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md) |[Unavailable](#-missingincomplete-days) |
 | 24  | Statistics | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/24_Day_Statistics/24_statistics.md) | |
 | 25  | Pandas | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/25_Day_Pandas/25_pandas.md) | |
 | 26  | Python Web | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/26_Day_Python_web/26_python_web.md) | |
@@ -46,6 +46,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | Day | Topic                 | Type          | Progress Table Reference          |
 |-----|-----------------------|---------------|-----------------------------------|
 | 15  | Python Type Errors    | REPL Practice | [Day 15 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |
+| 23	| Virtual Environment | Terminal Commands | [Day 23 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md)
 
 
 <details>
