@@ -32,7 +32,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 21  | Classes and Objects | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/21_Day_Classes_and_objects/21_classes_and_objects.md) |[Solution](21_Classes_and_objects/classes_and_objects.py) |
 | 22  | Web Scraping | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/22_Day_Web_scraping/22_web_scraping.md) |[Solution](22_Web_scraping/web_scraping.py) |
 | 23  | Virtual Environment | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md) |[Unavailable](#-missingincomplete-days) |
-| 24  | Statistics | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/24_Day_Statistics/24_statistics.md) | |
+| 24  | Statistics | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/24_Day_Statistics/24_statistics.md) |[Solution](24_Statistics/stats.ipynb) |
 | 25  | Pandas | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/25_Day_Pandas/25_pandas.md) | |
 | 26  | Python Web | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/26_Day_Python_web/26_python_web.md) | |
 | 27  | Python with MongoDB | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/27_Day_Python_with_mongodb/27_python_with_mongodb.md) | |
