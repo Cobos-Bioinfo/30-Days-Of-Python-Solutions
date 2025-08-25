@@ -1,0 +1,16 @@
+{% extends 'layout.html' %}
+{% block content %}
+<div class="container">
+  <h1>Text Analysis Results</h1>
+  {% if content %}
+  <p><strong>Text:</strong> {{ content }}</p>
+  <p><strong>Characters:</strong> {{ char_count }}</p>
+  <p><strong>Words:</strong> {{ word_count }}</p>
+  <p><strong>Sentences:</strong> {{ sentence_count }}</p>
+  <p><strong>Most Frequent Word:</strong> "{{ most_frequent }}" ({{ freq }} times)</p>
+  {% else %}
+  <p>No text provided.</p>
+  {% endif %}
+  <a href="{{ url_for('post') }}" class="btn">Analyze Another</a>
+</div>
+{% endblock %}
