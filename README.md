@@ -36,7 +36,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 25  | Pandas | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/25_Day_Pandas/25_pandas.md) |[Solution](25_Pandas/pand.py) |
 | 26  | Python Web | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/26_Day_Python_web/26_python_web.md) |[Solution](26_Python_web)|
 | 27  | Python with MongoDB | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/27_Day_Python_with_mongodb/27_python_with_mongodb.md) |[Unavailable](#-missingincomplete-days) |
-| 28  | API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/28_Day_API/28_API.md) | |
+| 28  | API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/28_Day_API/28_API.md) |[Unavailable](#-missingincomplete-days) |
 | 29  | Building API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/29_Day_Building_API/29_building_API.md) | |
 | 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | |
 
@@ -45,9 +45,10 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 
 | Day | Topic                 | Type          | Progress Table Reference          |
 |-----|-----------------------|---------------|-----------------------------------|
-| 15  | Python Type Errors    | REPL Practice | [Day 15 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |
-| 23	| Virtual Environment | Terminal Commands | [Day 23 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md)
-|27 |Python with MongoDB |No Exercises Provided |[Day 27 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/27_Day_Python_with_mongodb/27_python_with_mongodb.md) |
+| 15    | Python Type Errors    | REPL Practice | [Day 15 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/15_Day_Python_type_errors/15_python_type_errors.md) |
+| 23    | Virtual Environment   | Terminal Commands | [Day 23 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/23_Day_Virtual_environment/23_virtual_environment.md) |
+| 27    | Python with MongoDB   | No Exercises Provided | [Day 27 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/27_Day_Python_with_mongodb/27_python_with_mongodb.md) |
+| 28    | API   | Reading Exercise  | [Day 28 Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/28_Day_API/28_API.md) |
 
 
 <details>
@@ -64,4 +65,4 @@ Follow along using the original lessons linked above.
 
 
 #### ✏️  **Author's note on Code Formatting**:  
-I use VSCode's word wrap ```(Alt+Z)``` while coding, so some comments appear multi-line in my editor but may display as single-line on GitHub. The code functionality remains unaffected - just expand your viewer width or check the raw files if needed.
+I use VSCode's word wrap ```(Alt+Z)``` while coding, so some comments appear multi-line in my editor but may display as single-line on GitHub. The code functionality remains unaffected, just expand your viewer width or check the raw files if needed.
