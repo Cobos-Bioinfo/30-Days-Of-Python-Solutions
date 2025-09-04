@@ -10,7 +10,7 @@ Just like [Day 26](../26_Python_web/), I wanted to avoid using third-party servi
 
 However, while working on this day’s material, I realized that I had drifted quite far from the original lesson. Rather than forcing the solution into the Day 29 structure, I decided to build a **separate project inspired by Day 29** instead.  
 
-👉 You can find that project here: [Day 29 Inspired Project](link-to-project-github)
+👉 You can find that project here: [Day 29 Inspired Project](https://github.com/Cobos-Bioinfo/Text-And-Student-API)
 
 ---
 
