@@ -38,7 +38,7 @@ This repository contains my **complete solutions** to [Asabeneh Yetayeh](https:/
 | 27  | Python with MongoDB | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/27_Day_Python_with_mongodb/27_python_with_mongodb.md) |[Unavailable](#-missingincomplete-days) |
 | 28  | API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/28_Day_API/28_API.md) |[Unavailable](#-missingincomplete-days) |
 | 29  | Building API | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/29_Day_Building_API/29_building_API.md) | [Solution](29_Building_API)|
-| 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | |
+| 30  | Conclusions | [Lesson](https://github.com/Asabeneh/30-Days-Of-Python/blob/master/30_Day_Conclusions/30_conclusions.md) | [Solution](30_Conclusions)|
 
 <a id="missingincomplete-days"></a>
 ## 🚧 Missing/Incomplete Days
